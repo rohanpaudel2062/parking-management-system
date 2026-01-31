@@ -11,3 +11,4 @@ This project demonstrates the design of a parking management system for Urban Ci
 ## Technologies Used
 - Python
 - Object-Oriented Programming (OOP)
+- Abstract Base Classes (ABC)
