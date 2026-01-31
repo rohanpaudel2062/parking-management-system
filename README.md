@@ -9,5 +9,5 @@ This project demonstrates the design of a parking management system for Urban Ci
 - Different pricing strategies (peak, off-peak, weekend)
 
 ## Technologies Used
-- Java
+- Python
 - Object-Oriented Programming (OOP)
